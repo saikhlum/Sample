@@ -1,0 +1,17 @@
+# Ignore log files
+*.log
+
+# Ignore build directories
+/client/node_modules
+/server/node_modules
+/build/
+
+# Ignore config files containing secrets
+config.json
+
+# Ignore all .pdf files in the project
+*.pdf
+
+# Ignore all files in the temp/ directory
+/temp/*
+
